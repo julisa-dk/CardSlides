@@ -44,6 +44,10 @@ body {
   opacity: 0;
 }
 
+#white-element {
+  color: #111;
+}
+
 /* Add style for active slide - it will be at 10 times bigger that flex:1 */ 
 .slide.active {
   flex: 10;
