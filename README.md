@@ -5,3 +5,6 @@
 3. Images from http://unsplash.com
 4. Create js script for active card: the active card as a item of array
 5. Create js function slidesPlugin for the active element
+
+
+Link: card-slides-xdcd.vercel.app
